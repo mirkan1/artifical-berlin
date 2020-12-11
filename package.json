@@ -12,5 +12,8 @@
     "url": "https://git.heroku.com/artifical-berlin.git"
   },
   "author": "Raq",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

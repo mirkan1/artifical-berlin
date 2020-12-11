@@ -1,0 +1,16 @@
+{
+  "name": "marco-ar",
+  "version": "1.0.0",
+  "description": "augmented reality prototype first",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/artifical-berlin.git"
+  },
+  "author": "Raq",
+  "license": "ISC"
+}

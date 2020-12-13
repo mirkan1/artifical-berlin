@@ -32,6 +32,10 @@ app.get('/custom_object', (req, res) => {
   res.sendFile(path.join(__dirname + '/custom_object.html'));
 });
 
+app.get('/ply', (req, res) => {
+  res.sendFile(path.join(__dirname + '/ply.html'));
+});
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });

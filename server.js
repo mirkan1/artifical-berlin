@@ -36,6 +36,10 @@ app.get('/ply', (req, res) => {
   res.sendFile(path.join(__dirname + '/ply.html'));
 });
 
+app.get('/glft', (req, res) => {
+  res.sendFile(path.join(__dirname + '/glft.html'));
+});
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });

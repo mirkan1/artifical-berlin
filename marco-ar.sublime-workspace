@@ -1,0 +1,722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"probability",
+				"probabilityCalibrated"
+			],
+			[
+				"writer",
+				"writerow"
+			],
+			[
+				"long",
+				"long_list"
+			],
+			[
+				"sho",
+				"short_list"
+			],
+			[
+				"case",
+				"case_arr"
+			],
+			[
+				"waitFor",
+				"waitForVisible"
+			],
+			[
+				"firm",
+				"firmid2"
+			],
+			[
+				"passwo",
+				"password_"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"e",
+				"evaluate"
+			],
+			[
+				"ph",
+				"phone_number"
+			],
+			[
+				"sta",
+				"status_cancel"
+			],
+			[
+				"aling",
+				"align-items\tproperty"
+			],
+			[
+				"docu",
+				"documentElement"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"playlist",
+				"playlist_id"
+			],
+			[
+				"crea",
+				"createAppContainer"
+			],
+			[
+				"m",
+				"MenuHalfScreen"
+			],
+			[
+				"create",
+				"createDrawerNavigator"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "example.html",
+			"settings":
+			{
+				"buffer_size": 1617,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Microsoft Windows [Version 10.0.18363.1198]   \n(c) 2019 Microsoft Corporation. All rights reserved.                                                          \nerved.                                                                                                        \n                                                                                                              \n                                                                                                              \nC:\\Users\\Raq\\Desktop\\mirkan projects>cd marco-ar                                                              \n                                                                                                              \nC:\\Users\\Raq\\Desktop\\mirkan projects\\marco-ar>",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Babel",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"package con",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"print",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Raq/Desktop/mirkan projects/marco-ar"
+	],
+	"file_history":
+	[
+		"/C/Users/Raq/Desktop/mirkan projects/fiverr-recipe/recipe-box-develop/json_file.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task1_names/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task1_names/csv merger/csvCombiner.py",
+		"/C/Users/Raq/Desktop/Others/random codes/random_number_generator.py",
+		"/C/Users/Raq/Desktop/mirkan projects/mexica-job-bank/info.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/nba_venv/Lib/site-packages/win32com/test/testPyScriptlet.js",
+		"/C/Users/Raq/Desktop/Others/AHK/mouse_move_to_screen_not_close.ahk",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/nba_venv/Lib/site-packages/jedi/third_party/typeshed/stdlib/2/__builtin__.pyi",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task1_names/js/blizzard.js",
+		"/C/Users/Raq/Desktop/mirkan projects/puppeeter-fiverr/blizzard.js",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task2_modular_prep/plt_.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task1_names/csvCombiner.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task1_names/csv merger/README.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/blendshapes-fiverr/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/old/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/file2/main.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/file2/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task2_modular_prep/save.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task1_names/demo.wbt",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/task2_modular_prep/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/OSjob.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/csvCombiner.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/nba-upwork/ch_names.py",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/container/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/container/kv/2.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/container/kv/3.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/container/kv/root.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/container/test.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/kivy-master/examples/shader/shadertree.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/kivy-master/examples/shader/rotated.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/kivy-master/examples/shader/plasma.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/kivy-master/examples/text/pango_demo.py",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/kivy-master/examples/kv/app_video.kv",
+		"/D/Others/dispatch.py",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/root.kv",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/kivi-upwork/kivy-master/examples/container/main.py",
+		"/C/Users/Raq/Desktop/MouseGetPos.ahk",
+		"/C/Users/Raq/Desktop/pyint.py",
+		"/C/Users/Raq/Desktop/names.py",
+		"/C/Users/Raq/Desktop/pyinput_keyboard.py",
+		"/C/Users/Raq/Desktop/mirkan projects/my_services/myServices_tahmin_expo/myServices_expo_/redux/reducers/UserReducer.js",
+		"/C/Users/Raq/Desktop/mirkan projects/my_services/myServices_tahmin_expo/myServices_expo_/redux/reducers/CityReducer.js",
+		"/C/Users/Raq/Desktop/mirkan projects/my_services/myServices_tahmin_expo/myServices_expo_/redux/actions/CityActions.js",
+		"/C/Users/Raq/Desktop/mirkan projects/my_services/myServices_tahmin_expo/myServices_expo_/redux/actions/index.js",
+		"/C/Users/Raq/Desktop/mirkan projects/my_services/myServices_tahmin_expo/myServices_expo_/screens/MenuHalfScreen.js",
+		"/C/Users/Raq/Desktop/mirkan projects/mikko_EPISODES_/raq_dev.py",
+		"/C/Users/Raq/Desktop/mirkan projects/mikko_EPISODES_/first_duty_sourse.py",
+		"/C/Users/Raq/Desktop/mirkan projects/mikko_EPISODES_/unity__/tasks.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/session_hijacking.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/flaskapp/init.py",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/flaskapp/.flaskenv",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/flaskapp/app.py",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/style.css",
+		"/C/Users/Raq/Desktop/mirkan projects/joakim-attack/global.css",
+		"/C/Users/Raq/Desktop/mirkan projects/mikko_EPISODES_/dev2/script.py",
+		"/C/Users/Raq/Desktop/mirkan projects/marco_second_express_printer/HOW TO INSTALL, AND RUN.txt",
+		"/C/Users/Raq/Desktop/norway_post_attack.py",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/.ptmp7FB55B/marco-webapp_fun/printer_.py",
+		"/C/Users/Raq/Downloads/blizzard.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/facebook_metadata.js",
+		"/C/Users/Raq/Desktop/mirkan projects/puppeeter-fiverr/.gitignore",
+		"/C/Users/Raq/Desktop/mirkan projects/marco_second_express_printer/.gitignore",
+		"/C/Users/Raq/Desktop/hanabi_scripts.ahk",
+		"/C/Users/Raq/Desktop/mirkan projects/marco_second_express_printer/Questionnaire.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco_second_express_printer/human.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/marco_second_express_printer/printer_.py",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/printer_.py",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Questionnaire.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/package.json",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/.gitignore",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/winner.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/human.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/js/MotionDetector/ImageCompare.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/main.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/styles/main.css",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/js/index.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main_files/ImageCompare.js.download",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/js/jquery-migrate-1.4.1.min.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/js/jquery/test/jquery.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/js/jquery/test/hovertest.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Facebook Login Page.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main_files/main.css",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/questionnaire.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main_files/main.js.download",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main_files/WebCamCapture.js.download",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main_files/Core.js.download",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/Main_files/global.js.download",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/printer_.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/package-lock.json",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/package-lock_0.json",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/COM3",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/facebook.html",
+		"/C/Users/Raq/Desktop/Questionnaire.html",
+		"/C/Users/Raq/Desktop/Easeus 04 16_20/(C)/More Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/winner.html",
+		"/C/Users/Raq/Desktop/Easeus 04 16_20/index.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/index_.html",
+		"/C/Users/Raq/Desktop/Easeus 04 16_20/mac_tool.py",
+		"/C/Users/Raq/Desktop/Easeus 04 16_20/android.py",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/index_.html",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/facebook.html",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/package.json",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/package_0.json",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/package-lock.json",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/printer_.js",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/printer_.py",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/questionnaire.html",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/readme.md",
+		"/C/Users/Raq/Desktop/Easeus 04 16_29/(C)/Deleted Files/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/winner.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/header.ejs",
+		"/C/Users/Raq/Desktop/mirkan projects/puppeeter-fiverr/accounts.json",
+		"/C/Users/Raq/Desktop/mirkan projects/puppeeter-fiverr/old_accounts.json",
+		"/C/Users/Raq/Desktop/mirkan projects/puppeeter-fiverr/search/capture-arkose-c406879c2bcf4da1197b.js",
+		"/C/Users/Raq/Desktop/mirkan projects/smoke-effect-fiverr/smoky.txt",
+		"/C/Users/Raq/Desktop/Others/resumecv/mirkan_kilic.txt",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/ques.html",
+		"/C/Users/Raq/Desktop/Others/my_phone_number_for_logins/main.py",
+		"/C/Users/Raq/Desktop/mirkan projects/puppeeter-fiverr/scr_arkbose_labs.js",
+		"/C/Users/Raq/Desktop/svg_poligon.html",
+		"/C/Users/Raq/Desktop/Others/js-modules/ft.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/JS-Motion-Detection-master/js/MotionDetector.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/JS-Motion-Detection-master/js/MotionDetector-min.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/index.html",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/diff-cam-feed-master/gulpfile.js",
+		"/C/Users/Raq/Desktop/mirkan projects/marco-webapp_fun/diff-cam-feed-master/package.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 205.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"get_gender_country_with_api",
+			"get_long_file_arr",
+			"Retry",
+			"Asset",
+			"asset",
+			"binance.buy",
+			"Buy",
+			"emitState",
+			"n",
+			"onChallengeComplete",
+			"debug",
+			"sendTelemetry",
+			"arr",
+			"get_long_file_arr",
+			"get_country_with_api",
+			"while",
+			"\t",
+			"final_file",
+			"get_names",
+			"lawyer_names",
+			"browser",
+			"file",
+			"filename",
+			"getFullName",
+			"name",
+			"mail_address",
+			"arr",
+			"math",
+			"2002-1386",
+			"2007-1644",
+			"2002-1386",
+			"2007-1644",
+			"arr",
+			"n",
+			"N",
+			"ugen",
+			"Nyugen",
+			"China",
+			"write_infos",
+			"j",
+			"plt",
+			"贤",
+			"dan",
+			"name",
+			"Image",
+			"Encrypt",
+			"settings.png",
+			"Seperator",
+			"size_hint",
+			"Seperator",
+			"502",
+			"TextInput",
+			"Location_change_button",
+			"ML_file_button",
+			"TextInput",
+			"Location_change_button",
+			"EncryptScreen",
+			"SettingsScreen",
+			"ML_file_button",
+			"MY_file_button",
+			"EncryptScreen",
+			"MenuScreen",
+			"LoginScreen",
+			"root",
+			"settings.png",
+			"Separator",
+			"color",
+			"size=15",
+			"size=20",
+			"bold",
+			"Add",
+			"Separator",
+			"settings",
+			"IconButton",
+			"Select",
+			"Set",
+			"Allowed",
+			"Button",
+			"Add",
+			"Button",
+			"padding_y",
+			".2",
+			"TextInput",
+			"Set your",
+			":\n",
+			"align",
+			"ATA",
+			"navigate",
+			"Actions",
+			"PAGE_CHANGED",
+			"PAGE",
+			"navigate",
+			"Menu",
+			"navigateReducer",
+			"Actions",
+			"convert",
+			"navigator",
+			"LoginUserSuccess",
+			"userGetMe",
+			"fs",
+			"fs.open",
+			"console.log",
+			"instances",
+			"account",
+			"main",
+			"makeid",
+			"account41",
+			"email",
+			"DoB",
+			"password",
+			"phone",
+			"email",
+			"INFO"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "example.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								759,
+								759
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "C:\\Users\\Raq",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"config_name": "Command Prompt",
+								"cwd": "C:\\Users\\Raq",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 35.0
+	},
+	"pinned_build_system": "",
+	"project": "marco-ar.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 92.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

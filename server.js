@@ -24,6 +24,11 @@ app.get('/main', (req, res) => {
   res.sendFile(path.join(__dirname + '/main.html'));
 });
 
+app.get('/my_main', (req, res) => {
+  res.sendFile(path.join(__dirname + '/my_main.html'));
+});
+
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });

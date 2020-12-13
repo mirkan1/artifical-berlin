@@ -8,6 +8,14 @@ app
 	.set('views', path.join(__dirname, 'views'))
 	.set('view engine', 'ejs')
 
+app.get('/example_2', (req, res) => {
+  res.sendFile(path.join(__dirname + '/example_2.html'));
+});
+
+app.get('/new', (req, res) => {
+  res.sendFile(path.join(__dirname + '/new.html'));
+});
+
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname + '/example.html'));
 });

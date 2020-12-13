@@ -20,6 +20,10 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname + '/example.html'));
 });
 
+app.get('/main', (req, res) => {
+  res.sendFile(path.join(__dirname + '/main.html'));
+});
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });

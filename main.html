@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<h1>SA</h1>
   <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
   <!-- we import arjs version without NFT but with marker + location based support -->
   <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   <body style="margin : 0px; overflow: hidden;">
     <a-scene embedded arjs>
-      <a-marker preset="hiro">
+      <!-- <a-marker preset="hiro"> -->
+	   <a-marker type="pattern" preset="custom" url="https://raw.githubusercontent.com/mirkan1/artifical-berlin/master/assets/pattern-ab.png"></a-marker>
         <a-entity
           position="0 0 0"
           scale="0.05 0.05 0.05"
@@ -17,3 +17,4 @@
     </a-scene>
   </body>
 </html>
+

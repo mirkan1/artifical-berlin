@@ -40,6 +40,10 @@ app.get('/glft', (req, res) => {
   res.sendFile(path.join(__dirname + '/glft.html'));
 });
 
+app.get('/bee', (req, res) => {
+  res.sendFile(path.join(__dirname + '/bee.html'));
+});
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });

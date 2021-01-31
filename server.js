@@ -44,6 +44,11 @@ app.get('/bee', (req, res) => {
   res.sendFile(path.join(__dirname + '/bee.html'));
 });
 
+app.get('/bee2', (req, res) => {
+  res.sendFile(path.join(__dirname + '/bee2.html'));
+});
+
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });
